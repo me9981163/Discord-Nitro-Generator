@@ -1,4 +1,4 @@
-# 🇲🇦 MED Nitro Generator 2026
+# 🇲🇦 MED Nitro Generator v1
 
 <p align="center">
   A Python-based terminal utility for generating random Discord Nitro-style gift links and sending them to a Discord webhook.
